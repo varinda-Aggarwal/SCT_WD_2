@@ -31,7 +31,7 @@ SCT_WD_2/
 └── README.md
 
 # Live Demo
-[Click here to view](#) https://varinda-aggarwal.github.io/SCT_WD_2/
+[Click here to view](#) (https://varinda-aggarwal.github.io/SCT_WD_2/)
 
 # Screenshots
 ![Light Mode](assets/Screenshot_1.png)
